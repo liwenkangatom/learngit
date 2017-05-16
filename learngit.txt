@@ -1,0 +1,2 @@
+This is my first git!
+I heared git is very convinient!
