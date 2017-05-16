@@ -1,2 +1,4 @@
 This is my first git!
 I heared git is very convinient!
+git is a distributed version control system!
+git is a free solfware
