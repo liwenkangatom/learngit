@@ -2,3 +2,7 @@ this is my little git txt!This is my first
 git ijs a distributed version control system!
 git is a free solfware
 jhi ak kaj
+<<<<<<< HEAD
+=======
+this is the git log --graph --pretty=oneline --abbrev-commit.
+>>>>>>> feature
