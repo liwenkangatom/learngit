@@ -4,3 +4,4 @@ I heared git is very convinient!
 git is a distributed version control system!
 git is a free solfware
 jhi ak kaj
+this is the git log --graph --pretty=oneline --abbrev-commit.
